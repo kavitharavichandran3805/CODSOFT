@@ -12,8 +12,6 @@ LogisticRegression
 MultinomialNB
 accuracy_score
 classification_report
-Files:
-movie_genre_classification.ipynb: Jupyter notebook with the complete code.
 
 2. Credit Card Fraud Detection
 This project focuses on identifying fraudulent credit card transactions. The goal is to build a model that can accurately distinguish between fraudulent and legitimate transactions by analyzing patterns in the data.
@@ -24,8 +22,7 @@ LogisticRegression
 MultinomialNB
 accuracy_score
 classification_report
-Files:
-credit_card_fraud_detection.ipynb: Jupyter notebook with the complete code.
+
 
 3. SMS Spam Detection
 The aim of this project is to classify SMS messages as spam or ham (not spam). By employing NLP techniques and machine learning models, this system efficiently filters out spam messages.
@@ -37,15 +34,7 @@ LogisticRegression
 MultinomialNB
 accuracy_score
 classification_report
-Files:
-sms_spam_detection.ipynb: Jupyter notebook with the complete code.
 
 
 
-Contact
-If you have any questions or suggestions, feel free to contact me:
 
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
-Feel free to adjust any sections to better fit your specific details and preferences!
